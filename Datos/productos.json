@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "Manga Black Clover - Tomo 1",
+    "precio": 8500,
+    "categoria": "manga",
+    "descripcion": "Sigue la historia de Asta en su camino por convertirse en el Rey Mago.",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/399/159/products/blackclover011-16bce9fc7899a25c9c15818037524098-480-0.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Manga Dragon Ball Super - Tomo 1",
+    "precio": 8500,
+    "categoria": "manga",
+    "descripcion": "Las nuevas aventuras de Goku y Vegeta enfrentando a dioses del universo.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmmLxYOqVn1ggDQdyrDIgf_cEESdlH8swtFfLWybbGQ&s=10"
+  },
+  {
+    "id": 3,
+    "nombre": "Manga Kimetsu no Yaiba - Tomo 1",
+    "precio": 8500,
+    "categoria": "manga",
+    "descripcion": "Tanjiro inicia su viaje para salvar a su hermana Nezuko y vencer a los demonios.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNkDsb04BFNuDrvdUSjcXFpfy0bTALzWsc9T_TMrI9w&s=10"
+  },
+  {
+    "id": 4,
+    "nombre": "Teclado Mecánico RGB 60%",
+    "precio": 35000,
+    "categoria": "gaming",
+    "descripcion": "Teclado compacto con switches mecánicos y retroiluminación RGB personalizable.",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_895917-MLA99978532651_112025-O.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Mousepad XXL Pokémon Gengar",
+    "precio": 14000,
+    "categoria": "gaming",
+    "descripcion": "Mousepad antideslizante tamaño XXL de Gengar.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZtHhnM0v3Kz06NBZwprES3h6NFM9CX6QG9RcDQ6aYGoXAVOEzCc_lOb5o&s=10"
+  },
+  {
+    "id": 6,
+    "nombre": "Figura Funko Pop! Batman Edition ",
+    "precio": 18000,
+    "categoria": "coleccionables",
+    "descripcion": "Figura coleccionable de vinilo del Caballero de la Noche.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLmVNX7nWBI-fQWJRugFsy3pyLphLaf2HlZdzwkjst47L-z5Oy0nfJY80&s=10"
+  },
+  {
+    "id": 7,
+    "nombre": "Figura Coleccionable Iron Man Mark",
+    "precio": 42000,
+    "categoria": "coleccionables",
+    "descripcion": "Figura detallada con acabados metálicos y base de exhibición articulada.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPElizN5cA_Ua8L92jcoLMOrw1nzdaXvqNof3h32CHqgiGdRx84makrE&s=10"
+  },
+  {
+    "id": 8,
+    "nombre": "Comic Spider-Man: Across the Spider-Verse",
+    "precio": 12500,
+    "categoria": "comics",
+    "descripcion": "Miles Morales se aventura a través del multiverso junto a otros Spider-Heroes.",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_696669-MLA80901026738_122024-O.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "Comic Marvel: Civil War",
+    "precio": 15000,
+    "categoria": "comics",
+    "descripcion": "El conflicto ideológico supremo entre Iron Man y el Capitán América.",
+    "imagen": "https://www.salvat.com/36288-large_default/civil-war-parte-1.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Buzo Oversized 'Syntax Error'",
+    "precio": 24000,
+    "categoria": "indumentaria",
+    "descripcion": "Buzo de frisa invisible 100% algodón con estampado dev & geek.",
+    "imagen": "https://i.ibb.co/b5WWQ4B2/Chat-GPT-Image-8-oct-2026-03-23-55-p-m.png"
+  }
+]
